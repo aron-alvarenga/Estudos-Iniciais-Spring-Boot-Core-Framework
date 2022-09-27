@@ -1,4 +1,4 @@
-# 📓 Estudos sobre Spring Boot Core e Spring Framework 👨‍💻
+# 📓 Estudos Iniciais sobre Spring Boot Core e Spring Framework 👨‍💻
 
 Repositório para reunir um pouco dos meus estudos iniciais sobre Spring Boot Core e Spring Framework.
 
